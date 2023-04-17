@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49971668071",
+    "project_id": "quizappwithfirebase-ca284",
+    "storage_bucket": "quizappwithfirebase-ca284.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49971668071:android:aef4b3adf0c5fff29360c2",
+        "android_client_info": {
+          "package_name": "com.raxos.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49971668071-cf7vmmmghnpdcdlllqfj7a9jvb74i0bg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBbUB2M2TjQb7OpILYMxL1VVwioQBit0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49971668071-cf7vmmmghnpdcdlllqfj7a9jvb74i0bg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
